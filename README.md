@@ -16,7 +16,7 @@ A script to generate [LÖVE](https://love2d.org/) API autocomplete files for [Em
 3. `lua genEmmyAPI.lua` and the API is generated in `api`.
 
 
-### Use the APIs in your project
+### Use the APIs in your project .
 
 - Copy the content of `api` folder into your project's root directory (the same folder where `main.lua` is).  The content is just `love.lua` and a folder called `love`.
 - If you use [the Lua plugin on VS code](https://github.com/sumneko/lua-language-server), rather than copying, you can [specify the API](https://github.com/sumneko/lua-language-server/wiki/EmmyLua-Libraries).
